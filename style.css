@@ -16,9 +16,20 @@ body {
     font-family: sans-serif;
 }
 
+.imagems {
+    position: relative;
+}
+
 .celular{
-    width: 520px;
+    width: 450px;
     
+}
+
+.insta {
+    height: 520px;
+    position: absolute;
+    left: 153px;
+    top: 26px;
 }
 
 .logo-instagram{
